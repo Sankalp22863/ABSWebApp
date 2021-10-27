@@ -9,5 +9,4 @@ pystan==2.19.1.1
 fbprophet==0.7.1
 streamlit-player==0.1.5
 youtube-search-python==1.4.9
-speedtest-cli
-googleapiclient
+speedtest-cli==2.1.4b1

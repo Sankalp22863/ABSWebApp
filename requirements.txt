@@ -8,6 +8,6 @@ pandas-datareader==0.10.0
 pystan==2.19.1.1
 fbprophet==0.7.1
 streamlit-player==0.1.5
---upgrade google-api-python-client
+google-api-python-client
 youtube-search-python==1.4.9
 speedtest-cli

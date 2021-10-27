@@ -7,10 +7,10 @@ import multiprocessing
 
 import altair as alt
 
-import yfinance as yf
-from fbprophet import Prophet
-from fbprophet.plot import plot_plotly
-from plotly import graph_objs as go
+
+# from fbprophet import Prophet
+# from fbprophet.plot import plot_plotly
+# from plotly import graph_objs as go
 from matplotlib.animation import FuncAnimation
 
 from youtubesearchpython import VideosSearch

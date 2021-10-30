@@ -10,5 +10,6 @@ fbprophet==0.7.1
 streamlit-player==0.1.5
 youtube-search-python==1.4.9
 google-api-python-client==2.26.1
+speedtest-cli
 tensorflow==2.6.0
 keras==2.6.0
